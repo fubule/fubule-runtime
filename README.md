@@ -1,10 +1,9 @@
 # Fublue 运行时 
-(English)[README.en.md] | (简体中文)[README.md]
-
-本项目使用 C# 制作  
+<a href="https://github.com/fubule/fubule-runtime/blob/main/README.en.md">English</a> | <a href="https://github.com/fubule/fubule-runtime/blob/main/README.md">简体中文</a>
 
 ---
 
+本项目使用 C# 制作  
 介绍：  
 
 > [!IMPORTANT]
